@@ -1,2 +1,2 @@
-# projectff
+# thesis
 final project
